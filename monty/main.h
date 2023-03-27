@@ -77,6 +77,6 @@ void pstr_monty(stack_t **stack, unsigned int line_number);
 void rotl_monty(stack_t **stack, unsigned int line_number);
 
 /* defined in tokenizer.c */
-void tokentime(char *line);
+void tokentime(char *line_buff, const char *delims, stack_t **stack_prime);
 
 #endif
