@@ -3,5 +3,4 @@
 
 def package():
     """Prints and returns 'package'"""
-    print("package")
     return "package"

@@ -3,5 +3,4 @@
 
 def we():
     """Prints and returns 'we'"""
-    print("we ")
     return "we "

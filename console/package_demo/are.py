@@ -3,5 +3,4 @@
 
 def are():
     """Prints and returns 'are'"""
-    print("are ")
     return "are "
