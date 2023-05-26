@@ -1,0 +1,9 @@
+setup.py
+package_demo/__init__.py
+package_demo/are.py
+package_demo/package.py
+package_demo/we.py
+package_demo.egg-info/PKG-INFO
+package_demo.egg-info/SOURCES.txt
+package_demo.egg-info/dependency_links.txt
+package_demo.egg-info/top_level.txt

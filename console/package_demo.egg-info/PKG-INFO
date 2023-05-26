@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: package-demo
+Version: 0.1
+Summary: A simple example package
+Home-page: https://github.com/ZeroDayPoke/evilcode/console/package_demo
+Author: Chris Stamper
+Author-email: cstampok@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10.6
+
+UNKNOWN
+
