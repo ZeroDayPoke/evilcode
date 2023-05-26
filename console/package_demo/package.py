@@ -2,5 +2,5 @@
 """Live Code Console - Python Package Demo"""
 
 def package():
-    """Prints and returns 'package'"""
+    """Returns 'package'"""
     return "package"

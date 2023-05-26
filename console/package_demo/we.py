@@ -2,5 +2,5 @@
 """Live Code Console - Python Package Demo"""
 
 def we():
-    """Prints and returns 'we'"""
+    """Returns 'we'"""
     return "we "
