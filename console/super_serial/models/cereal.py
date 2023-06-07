@@ -20,7 +20,10 @@ class Cereal(BaseModel):
         other_cereals (list): A list of other cereals associated with the cereal.
     """
 
-    def __init__(self, name, sugar_content, fiber_content, is_gluten_free, expiration_date, shelf_life_days, flavor_complexity, other_cereals, *args, **kwargs):
+    def __init__(self, name="Cereal 19", sugar_content=99.99, fiber_content=199.99,
+                 is_gluten_free=True, expiration_date='Neva Witches',
+                 shelf_life_days=365, flavor_complexity=complex(2, 3),
+                 other_cereals=[], *args, **kwargs):
         """
         Initialize a new Cereal instance.
         """
